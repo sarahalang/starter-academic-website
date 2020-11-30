@@ -82,6 +82,7 @@ user_groups:
 ---
 
 Sarah Lang is a researcher and doctoral candidate in the Digital Humanities at Karl-Franzens-Universität Graz / Zentrum für Informationsmodellierung (ZIM-ACDH).
+
 Projects:
  * 2016-17: Student Assistant Spectators / Moralische Wochenschriften = gams.uni-graz.at/mws
  * 2017: Regesten aus dem Falkenstein-Nachlass (DHI Paris)
@@ -93,5 +94,5 @@ Fellowships at:
  * Ludwig Boltzmann Institute for. Neo-Latin Studies Innsbruck (2021),
  * Science History Institute Philadelphia (formerly Chemical Heritage Institution; 2021).
             
-# BA Archaeology 2016; MA Religious Studies 2017; MA Philosophy 2019. Mag. Teacher's Education (Latin & French) 2017; Mag. Teacher's Education (History & Ancient Greek) 2020.
+
             
