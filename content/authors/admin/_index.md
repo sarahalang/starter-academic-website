@@ -6,7 +6,7 @@ title: Sarah A. Lang
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Digital Humanities researcher
 
 # Organizations/Affiliations
 organizations:
