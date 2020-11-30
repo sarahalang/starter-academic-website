@@ -18,7 +18,7 @@ subtitle = ""
   icon = "book"
   icon_pack = "fas"
   name = "History of Alchemy"
-  description = "Specializing in the Neo-Latin corpus of Michael Maier (1568-1622)"
+  description = "Specializing on the Neo-Latin corpus of Michael Maier (1568-1622)"
   
 [[feature]]
   icon = "chart-line"
