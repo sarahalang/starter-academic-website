@@ -26,12 +26,24 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Digital Humanities"
+  #   tag = "Digital Humanities"
+  
+  # [[content.filter_button]]
+  #   name = "History of Science"
+  #   tag = "History of Science"
   
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
+  
+  # [[content.filter_button]]
+  #   name = "(Digital) Classics"
+  #   tag = "(Digital) Classics"
+  
+  # [[content.filter_button]]
+  #   name = "History of Alchemy"
+  #   tag = "History of Alchemy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
