@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sarah A. Lang
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,28 +10,40 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Zentrum für Informationsmodellierung (ZIM), University of Graz
+  url: "https://informationsmodellierung.uni-graz.at"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include leveraging Computational Humanities for the historiography of Alchemy and Chymistry. Feminist and author of the blog (LaTeX Ninja'ing and the Digital Humanities)[https://latex-ninja.com/]. (Still) Deeply rooted in Classics. Currently Digital Humanities Fellow at Institut für Europäische Geschichte (IEG) Mainz. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Humanities
+- Digital Humanities
+- (Computational) History of Science
+- History of Alchemy and Chymistry
+- (Digital) Classics
+- (Neo-)Latin
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Digital Humanities
+    institution: University of Graz 
+    year: 2018-2021
+  - course: Mag. in Teacher's Education (History & Ancient Greek)
+    institution: University of Graz 
+    year: 2020
+  - course: MA in Philosophy
+    institution: University of Graz 
+    year: 2019
+  - course: MA in Religious Studies
+    institution: University of Graz 
+    year: 2017
+  - course: Mag. in Teacher's Education (Latin & French)
+    institution: University of Graz 
+    year: 2017
+  - course: BA in Archaeology
+    institution: University of Graz 
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +52,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:contact.sarah.a.lang@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SarahALang_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=EghH0_UAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sarahalang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +81,17 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sarah Lang is a researcher and doctoral candidate in the Digital Humanities at Karl-Franzens-Universität Graz / Zentrum für Informationsmodellierung (ZIM-ACDH).
+Projects:
+ * 2016-17: Student Assistant Spectators / Moralische Wochenschriften = gams.uni-graz.at/mws
+ * 2017: Regesten aus dem Falkenstein-Nachlass (DHI Paris)
+ * 2017-19: Graz Repository of Ancient Fables = gams.uni-graz.at/graf
+ * 2018-20: Project Assistant of the Dean's office with a the PhD project on digital humanities approach to Michael Maier
+            
+Fellowships at:
+ * HAB Wolfenbüttel (2019), Digital Humanities Fellow @ IEG Mainz (2020).
+ * Ludwig Boltzmann Institute for. Neo-Latin Studies Innsbruck (2021),
+ * Science History Institute Philadelphia (formerly Chemical Heritage Institution; 2021).
+            
+# BA Archaeology 2016; MA Religious Studies 2017; MA Philosophy 2019. Mag. Teacher's Education (Latin & French) 2017; Mag. Teacher's Education (History & Ancient Greek) 2020.
+            
