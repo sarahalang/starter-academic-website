@@ -19,8 +19,8 @@ bio: My research interests include leveraging Computational Humanities for the h
 interests:
 - Computational Humanities
 - Digital Humanities
-- (Computational) History of Science
-- History of Alchemy and Chymistry
+- History of Science
+- History of Alchemy & Chymistry
 - (Digital) Classics
 - (Neo-)Latin
 
@@ -29,8 +29,8 @@ education:
   - course: PhD in Digital Humanities
     institution: University of Graz 
     year: 2018-2021
-  - course: Mag. in Teacher's Education (History & Ancient Greek)
-    institution: University of Graz 
+  - course: Mag. in History & Ancient Greek
+    institution: Teacher's Education, University of Graz 
     year: 2020
   - course: MA in Philosophy
     institution: University of Graz 
@@ -38,8 +38,8 @@ education:
   - course: MA in Religious Studies
     institution: University of Graz 
     year: 2017
-  - course: Mag. in Teacher's Education (Latin & French)
-    institution: University of Graz 
+  - course: Mag. in Latin & French
+    institution: Teacher's Education, University of Graz 
     year: 2017
   - course: BA in Archaeology
     institution: University of Graz 
