@@ -1,5 +1,5 @@
 ---
-title: Graz Repository of Ancient Fables (GRaF)
+title: Graz Repository of Ancient Fables (GRaF).
 summary: A learner-oriented digital edition of ancient fables. 
 tags:
 - (Digital) Classics
