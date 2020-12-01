@@ -6,9 +6,9 @@ tags:
 date: "2017-2019"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "gams.uni-graz.at/graf"
+external_link: "https://gams.uni-graz.at/graf"
 
-image: http://gams.uni-graz.at/graf/img/glt2/phaedr5.jpg
+image: 
   caption: An early modern edition of Phaedrus 
   focal_point: Smart
 
