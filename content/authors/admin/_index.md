@@ -83,7 +83,7 @@ Sarah Lang is a researcher and doctoral candidate in the Digital Humanities at K
 
 Research interests include leveraging Computational Humanities for the historiography of Alchemy and Chymistry. 
 
-Feminist and author of the blog (LaTeX Ninja'ing and the Digital Humanities)[https://latex-ninja.com/]. 
+Feminist and author of the blog [LaTeX Ninja'ing and the Digital Humanities](https://latex-ninja.com/). 
 (Still) Deeply rooted in Classics. 
 Currently Digital Humanities Fellow at Institut für Europäische Geschichte (IEG) Mainz. 
 
