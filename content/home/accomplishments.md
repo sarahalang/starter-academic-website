@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-07-01"
-  date_end = "2017-21-31"
+  date_end = "2017-12-31"
   description = "*Obscurum vocabulum Chymiae?* Zur polysemantischen Annotation und Disambiguierung alchemischer *Decknamen* am Beispiel des Korpus des Arztalchemikers Michael Maier (1568–1622)"
 
 [[item]]
