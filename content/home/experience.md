@@ -26,7 +26,7 @@ date_format = "2006-06-01"
   date_start = "2018-10-01"
   date_end = "2020-09-30"
   description = """Project Assistant of the Dean's office with a the PhD project on digital humanities approach to Michael Maier
- = [glossa.uni-graz.at/alchem](glossa.uni-graz.at/alchem)
+ = [glossa.uni-graz.at/alchem](http://glossa.uni-graz.at/alchem)
  
  * digital transcriptions of Michael Maier's (1568-1611) print corpus (~3500p.): OCR correction, TEI modelling
  * creating a digital annotation algorithm for the use of knowledge organization system based machine reasoning for decoding alchemical *Decknamen*
@@ -39,7 +39,7 @@ date_format = "2006-06-01"
   location = "Graz, Austria"
   date_start = "2017-10-01"
   date_end = "2019-09-30"
-  description = """Graz Repository of Ancient Fables (GRaF Project) = [gams.uni-graz.at/graf](gams.uni-graz.at/graf)
+  description = """Graz Repository of Ancient Fables (GRaF Project) = [gams.uni-graz.at/graf](https://gams.uni-graz.at/graf)
   
   * Creating a suitable data model for teaching materials on ancient fables in TEI-XML
   * Helping Classicists to gather data (Citizen Science)
@@ -56,7 +56,7 @@ date_format = "2006-06-01"
   location = "Graz, Austria"
   date_start = "2016-07-01"
   date_end = "2017-06-30"
-  description = """Spectators / Moralische Wochenschriften (MWS Project) = [gams.uni-graz.at/mws](gams.uni-graz.at/mws)
+  description = """Spectators / Moralische Wochenschriften (MWS Project) = [gams.uni-graz.at/mws](https://gams.uni-graz.at/mws)
   
   * Correcting TEI-XML data causing errors on the production server
   * XSL transformations
