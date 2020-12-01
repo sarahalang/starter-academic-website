@@ -14,7 +14,7 @@ organizations:
   url: "https://informationsmodellierung.uni-graz.at"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include leveraging Computational Humanities for the historiography of Alchemy and Chymistry. Feminist and author of the blog (LaTeX Ninja'ing and the Digital Humanities)[https://latex-ninja.com/]. (Still) Deeply rooted in Classics. Currently Digital Humanities Fellow at Institut für Europäische Geschichte (IEG) Mainz. 
+bio: My research interests include leveraging Computational Humanities for the historiography of Alchemy and Chymistry. Feminist and author of the blog [LaTeX Ninja'ing and the Digital Humanities](https://latex-ninja.com/). (Still) Deeply rooted in Classics. Currently Digital Humanities Fellow at Institut für Europäische Geschichte (IEG) Mainz. 
 
 interests:
 - Computational Humanities
