@@ -23,8 +23,8 @@ date_format = "2006-06-01"
   company = "Zentrum für Informationsmodellierung"
   company_url = "https://informationsmodellierung.uni-graz.at/de/"
   location = "Graz, Austria"
-  date_start = "2017-10-01"
-  date_end = "2019-09-30"
+  date_start = "2018-10-01"
+  date_end = "2020-09-30"
   description = """Project Assistant of the Dean's office with a the PhD project on digital humanities approach to Michael Maier
  = (glossa.uni-graz.at/alchem)[glossa.uni-graz.at/alchem]
  
@@ -55,7 +55,7 @@ date_format = "2006-06-01"
   company_url = "https://informationsmodellierung.uni-graz.at/de/"
   location = "Graz, Austria"
   date_start = "2016-07-01"
-  date_end = "2017-06-31"
+  date_end = "2017-06-30"
   description = """Spectators / Moralische Wochenschriften (MWS Project) = (gams.uni-graz.at/mws)[gams.uni-graz.at/mws]
   
   * Correcting TEI-XML data causing errors on the production server
