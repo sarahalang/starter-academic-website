@@ -14,6 +14,8 @@ image:
 
 url_documentation: "http://gams.uni-graz.at/context:graf?mode=doku"
 
+---
+
 The Graz Repository of Ancient Fables is a learner-oriented digital edition of ancient fables (Latin and Ancient Greek). 
 
 I contributed to this project as the Digital Humanities partner and have been responsible for both the design of the website and the modelling of the data. 
