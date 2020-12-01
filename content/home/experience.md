@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006-06-01"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Digital Humanities PraeDoc"
   company = "Zentrum für Informationsmodellierung"
-  company_url = "https://informationsmodellierung.uni-graz.at/de/"
+  company_url = "https://informationsmodellierung.uni-graz.at/"
   location = "Graz, Austria"
   date_start = "2017-10-01"
   date_end = "2019-09-30"
