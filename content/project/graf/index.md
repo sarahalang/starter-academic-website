@@ -6,7 +6,7 @@ tags:
 date: "2017-2019"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gams.uni-graz.at/graf"
+external_link: ""
 
 image: 
   caption: An early modern edition of Phaedrus 
@@ -16,7 +16,7 @@ url_documentation: "http://gams.uni-graz.at/context:graf?mode=doku"
 
 ---
 
-The Graz Repository of Ancient Fables is a learner-oriented digital edition of ancient fables (Latin and Ancient Greek). 
+The [Graz Repository of Ancient Fables](https://gams.uni-graz.at/graf) is a learner-oriented digital edition of ancient fables (Latin and Ancient Greek). 
 
 I contributed to this project as the Digital Humanities partner and have been responsible for both the design of the website and the modelling of the data. 
 The data are given in TEI-XML and are long-term archived in the Fedora-based GAMS respository infrastructure.
