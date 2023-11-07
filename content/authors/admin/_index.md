@@ -63,7 +63,7 @@ social:
   icon_pack: fab
   link: https://github.com/sarahalang
 - icon: orcid
-  icon_pack: fab
+  icon_pack: ai
   link: https://orcid.org/0000-0002-4618-9481 
 - icon: cv
   icon_pack: ai
