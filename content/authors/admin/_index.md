@@ -11,7 +11,7 @@ role: I am a digital humanities scholar whose work connects the study of histori
 # Organizations/Affiliations
 organizations:
 - name: Max Planck Institute for the History of Science (MPIWG), Berlin 
-  url: "[https://informationsmodellierung.uni-graz.at](https://www.mpiwg-berlin.mpg.de/de/people/slang)"
+  url: "https://www.mpiwg-berlin.mpg.de/de/people/slang"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include leveraging Computational Humanities for the historiography of Alchemy and Chymistry. Feminist and author of the blog [LaTeX Ninja'ing and the Digital Humanities](https://latex-ninja.com/). 
